@@ -12,7 +12,7 @@ To build this project we will use basic concept of python, Tkinter, and base64 l
 
 <br>Project File Structure</br>
 These are the step to build message encode – decode python project
-<b>Import module</b>
-<b>Create display window</b>
-<b>Define function</b>
-<b>Define labels and buttons</b>
+<br><b>Import module</b></br>
+<br><b>Create display window</b></br>
+<br><b>Define function</b></br>
+<br><b>Define labels and buttons</b></br>
