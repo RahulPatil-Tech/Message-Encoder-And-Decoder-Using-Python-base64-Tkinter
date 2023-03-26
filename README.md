@@ -9,3 +9,10 @@ In this project, users have to enter the message to encode or decode. Users have
 To build this project we will use basic concept of python, Tkinter, and base64 library.
 1. <b>Tkinter</b> is a standard GUI python library
 2. <b>base64</b> module provides a function to encode the binary data to ASCII characters and decode that ASCII characters back to binary data.
+
+<br>Project File Structure</br>
+These are the step to build message encode – decode python project
+<b>Import module</b>
+<b>Create display window</b>
+<b>Define function</b>
+<b>Define labels and buttons</b>
